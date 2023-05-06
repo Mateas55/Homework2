@@ -1,0 +1,16 @@
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\obj\Debug\net5.0\work.csproj.AssemblyReference.cache
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\obj\Debug\net5.0\work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\obj\Debug\net5.0\work.AssemblyInfoInputs.cache
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\obj\Debug\net5.0\work.AssemblyInfo.cs
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\obj\Debug\net5.0\work.csproj.CoreCompileInputs.cache
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\bin\Debug\net5.0\work.exe
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\bin\Debug\net5.0\work.deps.json
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\bin\Debug\net5.0\work.runtimeconfig.json
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\bin\Debug\net5.0\work.runtimeconfig.dev.json
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\bin\Debug\net5.0\work.dll
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\bin\Debug\net5.0\work.pdb
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\obj\Debug\net5.0\work.dll
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\obj\Debug\net5.0\refint\work.dll
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\obj\Debug\net5.0\work.pdb
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\obj\Debug\net5.0\work.genruntimeconfig.cache
+C:\Users\mate\Desktop\homeworks\Homework2\work\work\obj\Debug\net5.0\ref\work.dll
