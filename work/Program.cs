@@ -12,6 +12,9 @@ namespace work
             var username = Console.ReadLine();           
             Console.WriteLine(Console.ReadLine());
             Console.WriteLine("your user name is " + username);
+            Console.WriteLine("im new branch");
+            Console.ResetColor();
+
 
         }
     }
